@@ -1,0 +1,5 @@
+{
+  brand: @skateboard.brand,
+  pro: @skateboard.pro,
+  color: @skateboard.color,
+}
